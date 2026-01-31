@@ -1,0 +1,22 @@
+git clone https://github.com/Santikan07/basic_python_68_1.git
+
+cd name_folder
+cd .. 
+ls 
+ls -al
+pwd
+
+code . 
+antigravity . 
+
+git init
+git remote add origin https://github.com/Santikan07/basic_python_68_1.git
+
+git config --global user.name "Santikan07"
+git config --global user.email "wsgegdg@gmail.com"
+
+git add .
+git commit -m "your message"
+git push origin main
+
+git pull origin main
